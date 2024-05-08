@@ -4,9 +4,10 @@ Bu repo, HackerRank platformundaki SQL sorularını çözmek için SQL sorgular�
 
 ## İçindekiler
 
-1. [Revising the Select Query I](#sorun-1-soru-adı-veya-açıklaması)
-2. [Revising the Select Query II](#sorun-2-soru-adı-veya-açıklaması)
-3. ...
+- [HackerRank SQL Soruları Çözümleri](#hackerrank-sql-soruları-çözümleri)
+  - [İçindekiler](#i̇çindekiler)
+  - [Soru 1: Revising the Select Query I](#soru-1-revising-the-select-query-i)
+  - [Soru 2: Revising the Select Query II](#soru-2-revising-the-select-query-ii)
 
 ## Soru 1: Revising the Select Query I
 
